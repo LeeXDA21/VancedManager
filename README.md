@@ -1,7 +1,7 @@
 # Vanced Manager
 <div>
 
-[![Github All Releases](https://img.shields.io/github/downloads/YTVanced/VancedManager/total.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/YTVanced/VancedManager.svg?style=for-the-badge)](https://github.com/YTVanced/VancedManager/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/LeeXDA21/VancedManager/total.svg?style=for-the-badge)](https://github.com/LeeXDA21/VancedManager/releases/latest) [![Github All Releases](https://img.shields.io/github/release/LeeXDA21/VancedManager.svg?style=for-the-badge)](https://github.com/LeeXDA21/VancedManager/releases/latest)
 
 </div>
 
@@ -11,7 +11,7 @@ Hi, when we released Vanced 15.05.54, people were upset because it used the .apk
 
 Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall Vanced and MicroG, have an easy and user-friendly UI and be less than 10mb?" and that's how Vanced Manager was born.  
   
-After 3 months of development, we are finally ready to Introduce [Vanced Manager](https://github.com/YTVanced/VancedManager) to the masses!!
+After 3 months of development, we are finally ready to Introduce [Vanced Manager](https://github.com/LeeXDA21/VancedManager) to the masses!!
 
 ## Features
 
@@ -28,19 +28,20 @@ After 3 months of development, we are finally ready to Introduce [Vanced Manager
 <!-- ##### Background download/installation feature is no longer supported due to problems with some ROMs, please do NOT report issues regarding background activity. -->
 
 ## Contributions
-Pull Requests should be made to the [Dev](https://github.com/YTVanced/VancedManager) Branch as that is the working branch, master is for Release code only.
+Pull Requests should be made to the [Dev](https://github.com/LeeXDA21/VancedManager) Branch as that is the working branch, master is for Release code only.
 
 For anyone who wants to provide translations please submit them to this [link](https://crowdin.com/project/vanced-manager) as we also use it for YouTube Vanced. Any issues with translations should be posted there too.
 
 ## TODO
 - [ ] Clean up the ViewModel and DataModel code
 - [ ] Migrate to Jetpack Compose when it's officially released
+- [ ] Update & Replace deprecated code.
 
 ## Building
 
 <div>
 
-[![Build](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/YTVanced/VancedManager/actions/workflows/debug.yml)
+[![Build](https://github.com/LeeXDA21/VancedManager/actions/workflows/debug.yml/badge.svg?branch=dev)](https://github.com/LeeXDA21/VancedManager/actions/workflows/debug.yml)
 
 </div>
 
