@@ -26,10 +26,6 @@ android {
         buildConfigField("String[]", "MANAGER_LANGUAGES", "{$languages}")
     }
 
-    lint {
-        disable("MissingTranslation", "ExtraTranslation")
-    }
-
     applicationVariants.all {
         resValue("string", "versionName", versionName)
     }
@@ -108,6 +104,7 @@ dependencies {
     implementation("androidx.preference:preference-ktx:1.1.1")
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
     implementation("androidx.work:work-runtime-ktx:2.7.0-rc01")
+    implementation("io.insert-koin:koin-android:3.2.0")
 
     implementation("com.github.madrapps:pikolo:2.0.2")
     implementation("com.google.android.material:material:1.5.0-alpha04")
